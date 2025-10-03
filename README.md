@@ -20,7 +20,7 @@ This tool was made and runs with AutoHotkey. It's a small script compatible with
         - download and install the latest version of [AHK_X11](https://github.com/phil294/AHK_X11/). Then also download the file `vimium-everywhere.ahk`.
     - Start the downloaded program via double click or command line.
     - By default, it probably doesn't work properly, because you also need to:
-        - *Important*: Enable the assistive technologies setting for your distribution. There's usually a single checkbox somewhere to be found to enable it. After enabling, you may need to reboot.
+        - *Important*: Enable the assistive technologies setting for your distribution, also often called Accessibility. There's usually a single checkbox somewhere to be found to enable it. After enabling, you may need to reboot.
         - *Important*: Most applications need some config flag toggled so they cooperate. You'll find details in the table below.
     Once you have followed these steps, it should work great almost anywhere, like shown in the video at the top.
 
